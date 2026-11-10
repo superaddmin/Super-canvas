@@ -38,7 +38,7 @@ const messages = {
     demo: 'Live Demo',
     gallery: 'Gallery',
     features: 'Explore Features',
-    previewAlt: 'Infinite Canvas preview',
+    previewAlt: 'Super Canvas preview',
     contributors: 'Contributors',
     contributorsDescription: 'Thank you to everyone who has contributed to this project',
     contributorsAlt: 'Contributor avatars',

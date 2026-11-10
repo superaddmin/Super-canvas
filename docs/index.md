@@ -1,4 +1,4 @@
-# Infinite Canvas Documentation Index
+# Super Canvas Documentation Index
 
 ## Overview
 
